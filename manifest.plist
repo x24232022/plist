@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://xlczb.lgdsoft.cn/images/phone/xlc.ipa</string>
+                    <string>http://xlczb.lgdsoft.cn/phone/xlc.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://xlczb.lgdsoft.cn/images/phone/logo.png</string>
+                    <string>http://xlczb.lgdsoft.cn/phone/logo.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,13 +27,13 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://xlczb.lgdsoft.cn/images/phone/logo.png</string>
+                    <string>http://xlczb.lgdsoft.cn/phone/logo.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
 				<key>uodate-url</key>
-				<string>http://xlczb.lgdsoft.cn/images/phone/xlc.ipa</string>
+				<string>http://xlczb.lgdsoft.cn/phone/xlc.ipa</string>
                 <key>bundle-identifier</key>
                 <string>io.sylc.xlc</string>
                 <key>bundle-version</key>
